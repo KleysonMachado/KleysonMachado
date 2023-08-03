@@ -14,4 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleysonMachado&hide_progress=true)
 
-Apaixonado por tecnologia, amo música e sou baterista. Me atualizando sempre.
+Apaixonado por tecnologia, amo música e sou baterista. Me atualizando sempre. Gosto de ler sobre assuntos não relacionados a tecnologia.
